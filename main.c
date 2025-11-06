@@ -19,4 +19,5 @@ int main(void)
 
     CloseWindow();
     return 0;
+    //teste
 }
